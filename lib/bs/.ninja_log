@@ -1,0 +1,11 @@
+# ninja log v5
+1	31	1525691955	src/index.mlast	ee70712b3595a75a
+0	32	1525691955	src/App.mlast	23b6e55166ceaf6
+31	38	1525691955	src/index.mlast.d	4f35dd45768b4771
+32	40	1525691955	src/App.mlast.d	f46a0ff62c357ee1
+0	20	1525691955	src/App.cmj	d186eed1b36fa0b
+0	20	1525691955	/Users/Me/projects/kfox/reason/blogs/hybrid-2/lib/js/src/App.js	d186eed1b36fa0b
+0	20	1525691955	src/App.cmi	d186eed1b36fa0b
+20	33	1525691955	src/index.cmj	e387e5dd797a2dc9
+20	33	1525691955	/Users/Me/projects/kfox/reason/blogs/hybrid-2/lib/js/src/index.js	e387e5dd797a2dc9
+20	33	1525691955	src/index.cmi	e387e5dd797a2dc9
